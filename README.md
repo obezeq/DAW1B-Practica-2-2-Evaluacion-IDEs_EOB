@@ -19,7 +19,7 @@ Primero hice un `sudo apt update && sudo apt upgrade -y` para actualizar y recog
 
 Posteriormente me fui a la Ubuntu Store y instale ambos IDEs (aunque VSCode es un editor realmente, pero con extensiones se convierte prácticamente en un IDE).
 
-![Ubuntu Software APPs Installed](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/Ubuntu-Software-APPS-Installed.png)
+![Ubuntu Software APPs Installed](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/Ubuntu-Software-APPS-Installed.png)
 
 - **VSCode**: La instalación fue rápida y ligera muy sencilla. Solamente he hecho un click. Y después se me abrió VSCODE para configurar todas las extensiones, temas, etc.
 
@@ -29,8 +29,8 @@ Posteriormente me fui a la Ubuntu Store y instale ambos IDEs (aunque VSCode es u
 
 - **VSCode**: Su ligereza y flexibilidad fueron ventajosas para una instalación rápida y sin complicaciones.
 
-![Ubuntu Software VSCode Instalacion (Sin instalar)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Installation-0.png)
-![Ubuntu Software VSCode Instalacion (Instalado)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Installation-1.png)
+![Ubuntu Software VSCode Instalacion (Sin instalar)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Installation-0.png)
+![Ubuntu Software VSCode Instalacion (Instalado)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Installation-1.png)
 
 - **PyCharm**: Una característica importante es que despues de su instalación y ejecución, me permitió cargar la configuración que ya tenía en VSCode pues lo tenia ya instalado. Aun así para este ejemplo no lo hice, y decidi cargarlo sin configuraciones existentes.
 
@@ -42,13 +42,13 @@ Posteriormente me fui a la Ubuntu Store y instale ambos IDEs (aunque VSCode es u
 
 INSTALÉ LAS EXTENSIONES BÁSICAS DE PYTHON (Python, Python Debugger y Python Extension Pack). Y después instalé python-snippets que sirven para autocompletar código de forma sencilla, creado especialmente para Python.
 
-![Browsing Python Extensions in VSCode](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Extension-0(Python-browsing).png)
-![python-snippets VSCode Extension](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Installation-1.png)
+![Browsing Python Extensions in VSCode](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Extension-0(Python-browsing).png)
+![python-snippets VSCode Extension](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Installation-1.png)
 
 - En PyCharm, me instalé Python Security que al parecer detecta fallos de seguridad, cosa que está bastante bien cuando desarrollamos aplicaciones web con Python, pues te ayuda a detectar brechas de seguridad. Y luego me instalé python-typer-adder que te ayuda a autocompletar mientras escribes de forma más sencilla, especialmente en la documentación.
 
-![Python Security Extension (PyCharm)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/PyCharm/Extension-1.png)
-![Python Typing Adder Extension (PyCharm)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/PyCharm/Extension-2.png)
+![Python Security Extension (PyCharm)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/PyCharm/Extension-1.png)
+![Python Typing Adder Extension (PyCharm)](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/PyCharm/Extension-2.png)
 
 **Proceso de Instalación de Extensiones:**
 
@@ -66,29 +66,29 @@ Los beneficios de cada extensión instalada lo he comentado anteriormente adjunt
 
 - **VSCode**: Cambié el tema a “Beared Theme” desde extensiones y luego me instalé Material Icons que te cambia los iconos de los archivos del menú lateral izquierdo, haciendo más accesible la navegación mientras programas con miles de iconos.
 
-![VSCode Bearded Theme Installation](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Extension-3-Bearded-Theme-1.png)
-![VSCode Bearded Theme Customization](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Extension-3-Bearded-Theme-2.png)
+![VSCode Bearded Theme Installation](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Extension-3-Bearded-Theme-1.png)
+![VSCode Bearded Theme Customization](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Extension-3-Bearded-Theme-2.png)
 
-![VSCode Bearded Theme Customization](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Extension-2-Material-Icon-Theme.png)
+![VSCode Bearded Theme Customization](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Extension-2-Material-Icon-Theme.png)
 
 - **PyCharm**: Usé el tema “High Contrast” y personalice el tamaño de la letra.
 
-![PyCharm Theme Customization](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/PyCharm/Theme.png)
+![PyCharm Theme Customization](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/PyCharm/Theme.png)
 
 **Automatización de Tareas:**
 
 - En VSCode, configuré una tarea para ejecutar archivo main.py de Python.
 
-![VSCode Task Automatization 1](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Task-1.png)
-![VSCode Task Automatization 2](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Task-2.png)
-![VSCode Task Automatization 3](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Task-3.png)
-![VSCode Task Automatization 4](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Task-4.png)
-![VSCode Task Automatization 5](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Task-5.png)
+![VSCode Task Automatization 1](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Task-1.png)
+![VSCode Task Automatization 2](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Task-2.png)
+![VSCode Task Automatization 3](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Task-3.png)
+![VSCode Task Automatization 4](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Task-4.png)
+![VSCode Task Automatization 5](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Task-5.png)
 
 - En PyCharm, configuré una tarea para ejecutar archivo main.py de Python.
 
-![PyCharm Task Automatization 1](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/PyCharm/Automation-1.png)
-![PyCharm Task Automatization 2](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/PyCharm/Automation-2.png)
+![PyCharm Task Automatization 1](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/PyCharm/Automation-1.png)
+![PyCharm Task Automatization 2](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/PyCharm/Automation-2.png)
 
 **Beneficios de la Personalización y Automatización:**
 
@@ -120,8 +120,8 @@ Es fundamental mantener ambos IDEs actualizados para beneficiarse de las mejoras
 
 - Aproveché la automatización que generé anteriormente para ejecutar el codigo Python3, especialmente el archivo main.py.
 
-![VSCode File Execution With Task 1](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Ejecucion-Con-Task-1.png)
-![VSCode File Execution With Task 2](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Ejecucion-Con-Task-2.png)
+![VSCode File Execution With Task 1](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Ejecucion-Con-Task-1.png)
+![VSCode File Execution With Task 2](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Ejecucion-Con-Task-2.png)
 
 **Diferencias en la Generación de Ejecutables:**
 
@@ -132,7 +132,7 @@ Es fundamental mantener ambos IDEs actualizados para beneficiarse de las mejoras
 
 **Código Fuente:**
 
-![VSCode Cuenta Atrás Código Fuente](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2_EOB/refs/heads/main/public/VSCode/Codigo-1.png)
+![VSCode Cuenta Atrás Código Fuente](https://raw.githubusercontent.com/obezeq/DAW1B-Practica-2-2-Evaluacion-IDEs_EOB/refs/heads/main/public/VSCode/Codigo-1.png)
 
 **Diferencias en la Ejecución en Diferentes IDEs:**
 
