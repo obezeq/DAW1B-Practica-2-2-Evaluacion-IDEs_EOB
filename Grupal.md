@@ -10,7 +10,6 @@
 | **Autocompletado de código**         | Avanzado (IntelliSense para Python)           | Avanzado mediante extensiones                 |
 | **Control de versiones (Git)**       | Integrado (soporte para Git y otros)          | Integrado (soporte nativo para Git)           |
 | **Automatización de tareas**         | Incluye herramientas para testing y compilación| A través de extensiones                      |
-| **Soporte para múltiples lenguajes** | Principalmente Python                         | Amplio mediante extensiones                   |
 | **Personalización del entorno**      | Limitada (temas y atajos)                     | Alta, muy personalizable con temas y extensiones |
 | **Integración con bases de datos**   | Soporte nativo (PostgreSQL, MySQL)            | Necesita extensiones                          |
 | **Pruebas automatizadas**            | Integrado para Python                         | Mediante extensiones                          |
